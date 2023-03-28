@@ -1,0 +1,10 @@
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Лаба5-6\Лаба5-6\bin\Debug\Лаба5-6.exe.config
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Лаба5-6\Лаба5-6\bin\Debug\Лаба5-6.exe
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Лаба5-6\Лаба5-6\bin\Debug\Лаба5-6.pdb
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Лаба5-6\Лаба5-6\obj\Debug\Лаба5-6.csproj.AssemblyReference.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Лаба5-6\Лаба5-6\obj\Debug\Лаба5-6.csproj.SuggestedBindingRedirects.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Лаба5-6\Лаба5-6\obj\Debug\Лаба5_6.Form1.resources
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Лаба5-6\Лаба5-6\obj\Debug\Лаба5-6.csproj.GenerateResource.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Лаба5-6\Лаба5-6\obj\Debug\Лаба5-6.csproj.CoreCompileInputs.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Лаба5-6\Лаба5-6\obj\Debug\Лаба5-6.exe
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Лаба5-6\Лаба5-6\obj\Debug\Лаба5-6.pdb
