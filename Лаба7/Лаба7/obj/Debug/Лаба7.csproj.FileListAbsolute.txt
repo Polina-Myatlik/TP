@@ -1,0 +1,9 @@
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Лаба7\Лаба7\bin\Debug\Лаба7.exe
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Лаба7\Лаба7\bin\Debug\Лаба7.pdb
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Лаба7\Лаба7\obj\Debug\Лаба7.csproj.AssemblyReference.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Лаба7\Лаба7\obj\Debug\Лаба7.Form1.resources
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Лаба7\Лаба7\obj\Debug\Лаба7.csproj.GenerateResource.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Лаба7\Лаба7\obj\Debug\Лаба7.csproj.CoreCompileInputs.cache
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Лаба7\Лаба7\obj\Debug\Лаба7.exe
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Лаба7\Лаба7\obj\Debug\Лаба7.pdb
+C:\Users\polin\OneDrive\Рабочий стол\Учёба\Прога 4сем\Лаба7\Лаба7\obj\Debug\Лаба7.Properties.Resources.resources
